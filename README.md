@@ -1,5 +1,5 @@
 ## Olá sou o Bruno Rafael!
-###Designer digital & desenvolvedor front-end, cursando <br>Análise e Desenvolvimento de Sistema pela Anhembi Morumbi!
+### Designer digital & desenvolvedor front-end, cursando <br>Análise e Desenvolvimento de Sistema pela Anhembi Morumbi!
 <div align="center">
   <a href="https://github.com/Brunrb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunrb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
