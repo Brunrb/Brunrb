@@ -1,4 +1,4 @@
-# Olá! Eu sou Bruno Rafael Bueno da Silva
+# Olá! Eu sou Bruno Rafael!
 
 Sou **Designer Digital** e **Desenvolvedor Front-End**, formado em **Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi**.  
 Atuo como **Fullstack** atualmente na **CAP**, unindo **design, código e funcionalidade**.
